@@ -1,2 +1,5 @@
-# vigo-christmas-lights-data
-Vigo Christmas Lights Impact Data
+# Vigo Christmas Lights Impact Data
+
+Data from INE
+
+See [notebook](vigo-tourism-overnight-stays-december.ipynb)
